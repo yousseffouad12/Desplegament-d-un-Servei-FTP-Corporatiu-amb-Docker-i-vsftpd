@@ -128,7 +128,7 @@ El servei s'ha iniciat correctament després de resoldre problemes inicials de f
 
 Estat del contenidor en execució:
 
-![Captura docker ps](ruta/a/la/teva/captura_docker_ps.png)
+![Captura docker ps](https://github.com/yousseffouad12/Desplegament-d-un-Servei-FTP-Corporatiu-amb-Docker-i-vsftpd/blob/42ffbac582ee5ea351ad1215ab0cb88f6da54b5b/docker%20ps.png)
 
 *(Inserir aquí Captura de pantalla de docker ps)*
 
