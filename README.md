@@ -225,9 +225,8 @@ S'ha utilitzat FileZilla per validar la usabilitat final.
 - **Mode Passiu:** Connexió immediata, llistat de directoris ràpid i transferència de fitxers exitosa.
 - **Mode Actiu:** Temps d'espera esgotat (Timeout) en intentar llistar directoris.
 
-![Captura FileZilla](ruta/a/la/teva/captura_filezilla.png)
-
-*(Inserir aquí captures de FileZilla connectat)*
+![Captura FileZilla](https://github.com/yousseffouad12/Desplegament-d-un-Servei-FTP-Corporatiu-amb-Docker-i-vsftpd/blob/7268f1ef5714d7b06e47f0f0b8addfe02ffaa646/filezilla1.png)
+![Captura FileZilla](https://github.com/yousseffouad12/Desplegament-d-un-Servei-FTP-Corporatiu-amb-Docker-i-vsftpd/blob/7268f1ef5714d7b06e47f0f0b8addfe02ffaa646/filezilla2.png)
 
 ### Accés via Navegador Web
 
