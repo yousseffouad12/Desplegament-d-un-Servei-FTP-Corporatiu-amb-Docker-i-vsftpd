@@ -204,7 +204,8 @@ S'han realitzat proves de connexió utilitzant el client CLI dins del contenidor
 - Verificat amb la comanda `status` mostrant "Passive mode: on".
 - Aquest mode ha funcionat correctament en totes les proves amb clients externs (FileZilla, lftp).
 
-![Captura status](ruta/a/la/teva/captura_status.png)
+![Captura status](<img width="492" height="96" alt="image" src="https://github.com/user-attachments/assets/63d8c5d3-b226-4c56-8e3b-5b2166630a14" />
+)
 
 *(Inserir aquí captures de la comanda status)*
 
