@@ -130,7 +130,7 @@ Estat del contenidor en execució:
 
 ![Captura docker ps](https://github.com/yousseffouad12/Desplegament-d-un-Servei-FTP-Corporatiu-amb-Docker-i-vsftpd/blob/42ffbac582ee5ea351ad1215ab0cb88f6da54b5b/docker%20ps.png)
 
-*(Inserir aquí Captura de pantalla de docker ps)*
+
 
 ---
 
@@ -204,10 +204,9 @@ S'han realitzat proves de connexió utilitzant el client CLI dins del contenidor
 - Verificat amb la comanda `status` mostrant "Passive mode: on".
 - Aquest mode ha funcionat correctament en totes les proves amb clients externs (FileZilla, lftp).
 
-![Captura status](<img width="492" height="96" alt="image" src="https://github.com/user-attachments/assets/63d8c5d3-b226-4c56-8e3b-5b2166630a14" />
+![Captura status](![Uploading image.png…](https://github.com/yousseffouad12/Desplegament-d-un-Servei-FTP-Corporatiu-amb-Docker-i-vsftpd/blob/d218fc66cd44e7fbc59b47a4f728a6b25780a0e0/status.png)
 )
 
-*(Inserir aquí captures de la comanda status)*
 
 **Conclusió:** El mode passiu és l'única opció viable i robusta per a entorns contenidoritzats i xarxes modernes darrere de NAT.
 
